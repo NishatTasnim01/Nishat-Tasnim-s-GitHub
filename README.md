@@ -64,6 +64,18 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
   <a href="https://www.kaggle.com/nishatttasnim">
     <img src="https://github.com/smashik716/Icons/blob/main/Kaggle.svg" alt="Kaggle" style="vertical-align:top; margin:4px">
   </a> &nbsp;&nbsp;&nbsp;
+
+   <a href="https://stackoverflow.com/users/22037057/nishat-tasnim">
+    <img src="https://github.com/smashik716/Icons/blob/main/StackOverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:4px">
+  </a> &nbsp;&nbsp;&nbsp;
+
+   <a href="https://www.researchgate.net/profile/Nishat-Tasnim-35">
+    <img src="https://github.com/smashik716/Icons/blob/main/ResearchGate.svg" alt="ResearchGate" style="vertical-align:top; margin:4px">
+  </a> &nbsp;&nbsp;&nbsp;
+
+   <a href="https://www.tinkercad.com/users/eVQXPRyyEat">
+    <img src="https://github.com/smashik716/Icons/blob/main/Thinkercad.svg" alt="Thinkercad" style="vertical-align:top; margin:4px">
+  </a> &nbsp;&nbsp;&nbsp;
 </p>
 
  ### 📣 Contact With Me:
