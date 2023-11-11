@@ -201,23 +201,22 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
 
 <br>
 <br>
-
 ### 🎓 Achievements:
 <br>
 
 <!-- GitHub Stats and Top Languages -->
 <p align="center">
   <a href="https://github.com/NishatTasnim01">
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NishatTasnim01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NishatTasnim01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="400"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NishatTasnim01&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NishatTasnim01&layout=compact&langs_count=8&theme=algolia" width="400"/>
   </a>
 </p>
 
 <!-- GitHub Streak -->
 <p align="center">
   <a href="https://github.com/NishatTasnim01">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishatTasnim01&theme=radical" alt="NishatTasnim01" width="300"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishatTasnim01&theme=radical" alt="NishatTasnim01" width="500"/>
   </a>
 </p>
 
