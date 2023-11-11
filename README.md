@@ -69,7 +69,11 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
  ### 📣 Contact With Me:
  <br>
  <p align="center">
-  <a href="nishatt315@gmail.com"><img src="https://github.com/smashik716/Icons/blob/main/Gmail.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
+ <!-- <a href="nishatt315@gmail.com"><img src="https://github.com/smashik716/Icons/blob/main/Gmail.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>&nbsp;&nbsp;&nbsp; -->
+   <a href="mailto:nishatt315@gmail.com">
+    <img src="https://github.com/smashik716/Icons/blob/main/Gmail.svg?style=for-the-badge&logo=GMail&logoColor=white" />
+</a>&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/nishatt-tasnim-065a79279"><img src="https://github.com/smashik716/Icons/blob/main/Linked%20in.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
   
 </p>
