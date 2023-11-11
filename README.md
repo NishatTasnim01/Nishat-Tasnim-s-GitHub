@@ -28,7 +28,7 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
 -->
 
 <br>
-<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/5ea076b847d1cc44d6d3a93361410ea769f5b0e451bae76e33446eac6747b7dc/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3333313236352f73637265656e73686f74732f323439383730302f616e612d642d736d616c6c2e676966">
+<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/5ea076b847d1cc44d6d3a93361410ea769f5b0e451bae76e33446eac6747b7dc/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3333313236352f73637265656e73686f74732f323439383730302f616e612d642d736d616c6c2e676966">
 
 
 ## :sassy_woman: Who am I? (Breifly):
