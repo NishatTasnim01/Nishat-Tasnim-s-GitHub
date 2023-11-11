@@ -15,7 +15,6 @@ But here's the twist: I'm not just about codes and algorithms. My heart beats fo
 <br>
 Got a passion for the unconventional? Let's connect and embark on a journey of creativity, exploration, and mind-bending ideas. Feel free to drop me a line at nishatt315@gmail.com 📬. Together, let's transform the ordinary into the extraordinary! 🌈🔍
 </p>
-<h2 align="left">😸 Github Stats:</h2>
 <br>
 <br>
 <div align="center">
