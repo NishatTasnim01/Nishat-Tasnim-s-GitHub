@@ -251,10 +251,10 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
 
 <br>
 <p align="center">
-<a href="https://github.com/NishatTanim01">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NishatTanim01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NishatTanim01&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/NishatTasnim01">
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NishatTasnim01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NishatTasnim01&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
 
 <div align="center">
