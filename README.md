@@ -53,15 +53,15 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
 <p align="center">
   <a href="https://www.codechef.com/users/nishat149">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
+  </a> &nbsp;&nbsp;&nbsp;
   
   <a href="https://codeforces.com/profile/21201149">
     <img src="https://github.com/smashik716/Icons/blob/main/Codeforces.svg" alt="Codeforces" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
+  </a> &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.hackerrank.com/profile/nishatt315">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
+  </a> &nbsp;&nbsp;&nbsp;
   
   <a href="https://www.kaggle.com/nishatttasnim">
     <img src="https://github.com/smashik716/Icons/blob/main/Kaggle.svg" alt="Kaggle" style="vertical-align:top; margin:4px">
