@@ -106,8 +106,8 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
     <a href="#" target="_blank"><img alt="C++" src="https://github.com/smashik716/Icons/blob/main/C%2B%2B%20Programming.svg?style=flat-square&logo=C%2B%2B&logoColor=white"></a> &nbsp;&nbsp;&nbsp;
      <a href="#" target="_blank"><img alt="C Programming" src="https://github.com/smashik716/Icons/blob/main/C%20Programming.svg?style=flat-square&logo=C&logoColor=white"></a> &nbsp;&nbsp;&nbsp;
      <a href="#" target="_blank"><img alt="SQL" src="https://github.com/smashik716/Icons/blob/main/SQL.svg?style=flat-square&logo=mysql&logoColor=white"></a> &nbsp;&nbsp;&nbsp;
-
 </p>
+<br>
 
 <!-- ### 🧑‍💻️ Frontend Development
 <p align="center"> 
@@ -201,9 +201,6 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
 
  
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nishattasnim01&theme=github-dark&custom_title=Nishat's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<br>
 <br>
 
 ### 🎓 Achievements:
