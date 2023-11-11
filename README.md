@@ -79,7 +79,7 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
 
    <a href="https://www.tinkercad.com/users/eVQXPRyyEat-nishat-tasnim">
     <img src="https://github.com/smashik716/Icons/blob/main/Thinkercad.svg" alt="Thinkercad" style="vertical-align:top; margin:4px">
-  </a> &nbsp;&nbsp;&nbsp;
+  </a>
 </p>
 
  ### 📩 Contact With Me:
