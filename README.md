@@ -65,7 +65,8 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
   
   <a href="https://www.kaggle.com/nishatttasnim">
     <img src="https://github.com/smashik716/Icons/blob/main/Kaggle.svg" alt="Kaggle" style="vertical-align:top; margin:4px">
-  </a> &nbsp;&nbsp;&nbsp;
+  </a>
+  <br>
   <br>
 
    <a href="https://stackoverflow.com/users/22037057/nishat-tasnim">
