@@ -200,7 +200,7 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
 
 
 
-<!--
+
 <div style="display: flex; justify-content: space-between;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=NishatTasnim01&theme=holi&show_icons=true" width="375"/>
@@ -210,33 +210,30 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
     </a>
 </div>
 
--->
+
  
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=NishatTasnim01&theme=holi-theme&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats) <div width="400" align="right"> -->
-
+<!--
 <p align="center">
  
 <a href="https://github.com/NishatTasnim01">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NishatTasnim01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NishatTasnim01&layout=compact&langs_count=8&theme=algolia"/>
 </a>
- 
+ --> 
 
 <!-- [![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=NishatTasnim01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/NishatTasnim01)
 [![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NishatTasnim01&layout=compact&langs_count=8&theme=algolia)](https://github.com/NishatTasnim01) -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishatTasnim01&layout=compact) -->
 
-</p>
+<!--</p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NishatTasnim01&theme=radical" alt="NishatTasnim01" width="600" /></p>
-
-<p align="center">
-
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NishatTasnim01&theme=radical" alt="NishatTasnim01" width="600" /></p>
+<p align="right">
  <img src="https://activity-graph.herokuapp.com/graph?username=NishatTasnim01&theme=react-dark&area=true&hide_border=true" width="100%">
-
 </p>
-
+--> 
 <br>  
 <br>
 
