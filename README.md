@@ -201,7 +201,7 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
 <div style="display: flex; justify-content: space-between;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=NishatTasnim01&theme=holi&show_icons=true" width="375"/>
-    </a> &nbsp;&nbsp;
+    </a> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
     <a href="https://git.io/streak-stats">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=NishatTasnim01&theme=dark&hide_border=false" width="400"/>
     </a>
