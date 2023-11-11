@@ -202,15 +202,8 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
 <br>
 <br>
 
-#### 🎓 Achievements:
+### 🎓 Achievements:
 <br>
-
-<!-- GitHub Stats and Streak -->
-<div style="display: flex; justify-content: space-between;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-       <img src="https://github-readme-stats.vercel.app/api?username=NishatTasnim01&theme=holi&show_icons=true" width="375"/>
-    </a> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-</div>
 
 <!-- GitHub Stats and Top Languages -->
 <p align="center">
@@ -219,6 +212,13 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NishatTasnim01&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
+
+<!-- GitHub Stats and Streak -->
+<div style="display: flex; justify-content: space-between;">
+    <a href="https://git.io/streak-stats">
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=NishatTasnim01&theme=holi-theme&hide_border=false" width="400"/>
+    </a>
+</div>
 
 <!-- GitHub Snake -->
 <div align="center">
