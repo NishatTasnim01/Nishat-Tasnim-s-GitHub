@@ -223,11 +223,6 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
   </a>
 </p>
 
-<!-- GitHub Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishattasnim01&theme=github-dark&custom_title=Nishat's%20Activity%20Graph&hide_border=true"/>
-</div>
-
 <!-- GitHub Snake -->
 <div align="center">
   <img src="https://github.com/0xAshik/GitubSVGs/blob/main/grid-snake.svg" alt="snake"/>
