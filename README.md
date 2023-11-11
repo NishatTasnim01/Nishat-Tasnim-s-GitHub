@@ -47,7 +47,7 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
 
 
 
-### 📢 Find me elsewhere
+### 🔍 Find me elsewhere
 <p align="center">
   <a href="https://www.codechef.com/users/nishat149">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
@@ -78,7 +78,7 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
   </a> &nbsp;&nbsp;&nbsp;
 </p>
 
- ### 📣 Contact With Me:
+ ### 📩 Contact With Me:
  <br>
  <p align="center">
  <a href="nishatt315@gmail.com"><img src="https://github.com/smashik716/Icons/blob/main/Gmail.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
@@ -92,7 +92,7 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+### 💻 Programming languages
 <br>
 
 <p align="center">
@@ -105,7 +105,7 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
 
 </p>
 
-<!-- ### 👉 Frontend Development
+<!-- ### 🧑‍💻️ Frontend Development
 <p align="center"> 
   &emsp; 
   <a href="#" target="_blank"> 
@@ -119,7 +119,7 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
 -->
 
 
-<!-- ### 👉 Software & Tools
+<!-- ### 🧶 Software & Tools
  
 <p align="center">
   &emsp;
@@ -148,7 +148,7 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
 -->
 
 
-<!--  ### 👉 Competitive Programming & Problem Solving
+<!--  ### 🧠 Competitive Programming & Problem Solving
 <p align="center">
   &emsp;
     <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
@@ -202,7 +202,7 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
 <br>
 <br>
 
-### 📟 GitHub Stats:
+### 🎓 Achievements:
 <br>
 
  
