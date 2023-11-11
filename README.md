@@ -249,9 +249,13 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
 
 <!-- <a href=""><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NishatTasnim01&layout=compact&langs_count=8&theme=algolia" width="300" align="center"/></a> -->
 
-
-
 <br>
+<p align="center">
+<a href="https://github.com/RashikRahman">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RashikRahman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RashikRahman&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <div align="center">
   <img  src="https://github.com/0xAshik/GitubSVGs/blob/main/grid-snake.svg"
