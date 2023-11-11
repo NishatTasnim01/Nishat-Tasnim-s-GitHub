@@ -214,11 +214,13 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
 </p>
 
 <!-- GitHub Stats and Streak -->
+<p align="center">
 <div style="display: flex; justify-content: space-between;">
     <a href="https://git.io/streak-stats">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=NishatTasnim01&theme=holi-theme&hide_border=false" width="400"/>
     </a>
 </div>
+</p>
 
 <!-- GitHub Snake -->
 <div align="center">
