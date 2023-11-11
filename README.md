@@ -18,7 +18,7 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
 <h2 align="left">😸 Github Stats:</h2>
 <br>
 <br>
-<div align="left">
+<div align="center">
 
 ![profile visit](https://komarev.com/ghpvc/?username=NishatTasnim01)
 </div>
