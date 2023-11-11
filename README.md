@@ -216,9 +216,14 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
 
 <!-- GitHub Streak -->
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=NishatTasnim01&theme=holi-theme&hide_border=false" width="400"/>
+  <a href="https://github.com/NishatTasnim01">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishatTasnim01&theme=radical" alt="NishatTasnim01" width="600"/>
   </a>
+</p>
+
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=NishatTasnim01&theme=react-dark&area=true&hide_border=true" width="100%">
 </p>
 
 <!-- GitHub Snake -->
