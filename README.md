@@ -1,12 +1,12 @@
-<h1 align="center" style="color: #3498db; font-family: 'Arial', sans-serif; font-size: 2em;">
+<h1 align="center" style="color: #4CAF50; font-family: 'Arial', sans-serif; font-size: 28px; font-weight: bold;">
   Hello there, I'm Nishat Tasnim 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
-<p align="center" style="text-align: center; color: #2ecc71; font-size: 1.2em;">
+<p align="center" style="text-align: center; color: #1E88E5; font-family: 'Verdana', sans-serif; font-size: 18px;">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Manifesting+to+be+Research+Scientist;" alt="Typing SVG">
   </a>
 </p>
-<p style="text-align: justify; color: #555; font-size: 1em;">
+<p style="text-align: justify; color: #333; font-family: 'Georgia', serif; font-size: 16px; line-height: 1.5;">
   <!-- Your justified text here -->
 </p>
 
