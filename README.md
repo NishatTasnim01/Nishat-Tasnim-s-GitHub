@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm Nishat Tasnim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center" justyfi="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=-----+University+of+Asis+Pacific+-----;------+Competitive+Programmer+------;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=-----+University+of+Asia+Pacific+-----;------+Competitive+Programmer+------;"></a>
 </p>
 <p align="justify">
 Hello there! 👋 I'm Nishat Tasnim, a curious explorer of the coding cosmos. While I may not wield languages like C, C++, Java, and Python with the mastery of a seasoned pro, I thrive on the thrill of creation and innovation. My digital palette includes dabbling in Machine Learning, spinning words into scientific gold, crafting visual wonders, and sculpting ideas into captivating PowerPoint presentations. Catch me occasionally cracking coding conundrums on Codechef and Codeforces, where challenges are my playground. But here's the twist: I'm not just about codes and algorithms. My heart beats for the enigmatic realm of research. Unveiling the mysteries of the universe, one data point at a time, gives me an electrifying high. Datasets are my playmates, and I believe that in every spreadsheet lies a story waiting to be told. Got a passion for the unconventional? Let's connect and embark on a journey of creativity, exploration, and mind-bending ideas. Together, let's transform the ordinary into the extraordinary! 🔍
