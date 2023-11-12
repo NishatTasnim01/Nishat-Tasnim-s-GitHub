@@ -215,12 +215,24 @@ I'm a curious explorer of the coding cosmos. While I may not wield languages lik
   </a>
 </p>
 
+<!-- Count Private Repositories and Languages Used -->
+<p align="center">
+  <a href="https://github.com/NishatTasnim01">
+    <img src="https://komarev.com/ghpvc/?username=NishatTasnim01&label=Profile%20views&color=0e75b6&style=flat" alt="NishatTasnim01" />
+  </a>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=NishatTasnim01&count_private=true&show_icons=true&theme=algolia" alt="Private Repositories Count" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishatTasnim01&layout=compact&langs_count=8&theme=algolia" alt="Languages Used" />
+</p>
+
 <!-- GitHub Streak -->
 <p align="center">
   <a href="https://github.com/NishatTasnim01">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishatTasnim01&theme=radical" alt="NishatTasnim01" width="500"/>
   </a>
 </p>
+
 
 <!-- GitHub Snake -->
 <div align="center">
