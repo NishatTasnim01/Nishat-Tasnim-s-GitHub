@@ -26,7 +26,7 @@ Hello there! 👋 I'm Nishat Tasnim, a curious explorer of the coding cosmos. Wh
 
 ## :sassy_woman: Who am I? (Breifly):
 - 🏫: I am a `Student` at Department of CSE at University of Asia Pacific.
-- 👩‍🔬: I'm very passionate about `Research`, `AI`, `HCI`, `ML`, `DL`, etc.
+- 👩‍🔬: I'm very passionate about `Research`, `AI`, `HCI`, `ML`, `DL`, `NLP` etc.
 - 💻: I love `Graphics Design` and writing `Scientific Content`, `Sci-Fi`.
 - :sassy_woman: Always `exploring` and `learning new things`.
 
