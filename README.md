@@ -3,7 +3,7 @@
 
 <p align="center" style="text-align: center;">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=---ASPIRING+RESEARCH+SCIENTIST---;">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=--+ASPIRING+RESEARCH+SCIENTIST+--;">
   </a>
 </p>
 
