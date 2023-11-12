@@ -73,19 +73,19 @@ Hello there! 👋 I'm Nishat Tasnim, a curious explorer of the coding cosmos. Wh
   </a>
 </p>
 
- ### 📩 Contact With Me:
+### 📩 Contact With Me:
 <br>
 <p align="center">
   <a href="mailto:nishatt315@gmail.com">
-    <img src="https://github.com/smashik716/Icons/blob/main/Gmail.svg" alt="Gmail" style="width: 150px; height: 40px; fill: red;">
+    <img src="https://github.com/smashik716/Icons/blob/main/Gmail.svg?style=for-the-badge&logo=GMail&logoColor=red" alt="Gmail" style="border: 2px solid red; border-radius: 5px;">
   </a> &nbsp;&nbsp;&nbsp;
   
   <a href="https://www.linkedin.com/in/nishatt-tasnim-065a79279">
-    <img src="https://github.com/smashik716/Icons/blob/main/Linked%20in.svg" alt="LinkedIn" style="width: 150px; height: 40px; fill: grey;">
+    <img src="https://github.com/smashik716/Icons/blob/main/Linked%20in.svg?style=for-the-badge&logo=linkedin&logoColor=grey" alt="LinkedIn" style="border: 2px solid grey; border-radius: 5px;">
   </a> &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.facebook.com/profile.php?id=100057417531922">
-    <img src="https://github.com/smashik716/Icons/blob/main/Facebook.svg" alt="Facebook" style="width: 150px; height: 40px; fill: blue;">
+    <img src="https://github.com/smashik716/Icons/blob/main/Facebook.svg?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook" style="border: 2px solid blue; border-radius: 5px;">
   </a>
 </p>
 
