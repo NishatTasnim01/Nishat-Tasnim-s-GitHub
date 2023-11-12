@@ -75,7 +75,7 @@ I'm a curious explorer of the coding cosmos. While I may not wield languages lik
   </a> &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.tinkercad.com/users/eVQXPRyyEat-nishat-tasnim">
-    <img src="https://github.com/smashik716/Icons/blob/main/Tinkercad.svg" alt="Tinkercad" style="vertical-align:top; margin:4px; color: gray;">
+    <img src="https://github.com/smashik716/Icons/blob/main/Thinkercad.svg" alt="Tinkercad" style="vertical-align:top; margin:4px; color: gray;">
 </a>
 </p>
 
