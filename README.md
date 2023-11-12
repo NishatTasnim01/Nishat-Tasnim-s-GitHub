@@ -42,34 +42,34 @@ Hello there! 👋 I'm Nishat Tasnim, a curious explorer of the coding cosmos. Wh
 
 ### 🔍 Find me elsewhere
 <p align="center">
-  <a href="https://www.codechef.com/users/nishat149" style="color: blue;">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
+  <a href="https://www.codechef.com/users/nishat149">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px; color: blue;">
   </a> &nbsp;&nbsp;&nbsp;
 
-  <a href="https://codeforces.com/profile/21201149" style="color: blue;">
-    <img src="https://github.com/smashik716/Icons/blob/main/Codeforces.svg" alt="Codeforces" style="vertical-align:top; margin:4px">
+  <a href="https://codeforces.com/profile/21201149">
+    <img src="https://github.com/smashik716/Icons/blob/main/Codeforces.svg" alt="Codeforces" style="vertical-align:top; margin:4px; color: green;">
   </a> &nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.hackerrank.com/profile/nishatt315" style="color: blue;">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
+  <a href="https://www.hackerrank.com/profile/nishatt315">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px; color: red;">
   </a> &nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.kaggle.com/nishatttasnim" style="color: blue;">
-    <img src="https://github.com/smashik716/Icons/blob/main/Kaggle.svg" alt="Kaggle" style="vertical-align:top; margin:4px">
+  
+  <a href="https://www.kaggle.com/nishatttasnim">
+    <img src="https://github.com/smashik716/Icons/blob/main/Kaggle.svg" alt="Kaggle" style="vertical-align:top; margin:4px; color: purple;">
   </a>
   <br>
   <br>
 
-  <a href="https://stackoverflow.com/users/22037057/nishat-tasnim" style="color: blue;">
-    <img src="https://github.com/smashik716/Icons/blob/main/StackOverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:4px">
+  <a href="https://stackoverflow.com/users/22037057/nishat-tasnim">
+    <img src="https://github.com/smashik716/Icons/blob/main/StackOverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:4px; color: orange;">
   </a> &nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.researchgate.net/profile/Nishat-Tasnim-35" style="color: blue;">
-    <img src="https://github.com/smashik716/Icons/blob/main/ResearchGate.svg" alt="ResearchGate" style="vertical-align:top; margin:4px">
+  <a href="https://www.researchgate.net/profile/Nishat-Tasnim-35">
+    <img src="https://github.com/smashik716/Icons/blob/main/ResearchGate.svg" alt="ResearchGate" style="vertical-align:top; margin:4px; color: brown;">
   </a> &nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.tinkercad.com/users/eVQXPRyyEat-nishat-tasnim" style="color: blue;">
-    <img src="https://github.com/smashik716/Icons/blob/main/Thinkercad.svg" alt="Thinkercad" style="vertical-align:top; margin:4px">
+  <a href="https://www.tinkercad.com/users/eVQXPRyyEat-nishat-tasnim">
+    <img src="https://github.com/smashik716/Icons/blob/main/Thinkercad.svg" alt="Thinkercad" style="vertical-align:top; margin:4px; color: gray;">
   </a>
 </p>
 
