@@ -211,19 +211,8 @@ I'm a curious explorer of the coding cosmos. While I may not wield languages lik
   <a href="https://github.com/NishatTasnim01">
     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NishatTasnim01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="400"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NishatTasnim01&layout=compact&langs_count=8&theme=algolia" width="400"/>
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NishatTasnim01&layout=compact&langs_count=8&theme=algolia&count_private=true" width="400"/>
   </a>
-</p>
-
-<!-- Count Private Repositories and Languages Used -->
-<p align="center">
-  <a href="https://github.com/NishatTasnim01">
-    <img src="https://komarev.com/ghpvc/?username=NishatTasnim01&label=Profile%20views&color=0e75b6&style=flat" alt="NishatTasnim01" />
-  </a>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=NishatTasnim01&count_private=true&show_icons=true&theme=algolia" alt="Private Repositories Count" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishatTasnim01&layout=compact&langs_count=8&theme=algolia" alt="Languages Used" />
 </p>
 
 <!-- GitHub Streak -->
