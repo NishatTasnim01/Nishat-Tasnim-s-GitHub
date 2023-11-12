@@ -1,12 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nishat Tasnim</title>
+  <style>
+    body {
+      background-color: #f2f2f2;
+      color: #333;
+      font-family: 'Arial', sans-serif;
+    }
 
-<h1 align="center">Hello there, I'm Nishat Tasnim 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center" style="text-align: center;">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Manifesting+to+be+Research+Scientist;">
-  </a>
-</p>
-<p style="text-align: justify;">
-</p>
+    h1 {
+      color: #1a73e8;
+      font-size: 2.5em;
+      margin-bottom: 10px;
+    }
+
+    p {
+      color: #555;
+      font-size: 1.2em;
+      line-height: 1.6;
+      margin: 0;
+    }
+
+    p.center {
+      text-align: center;
+    }
+
+    p.justify {
+      text-align: justify;
+    }
+
+    img {
+      vertical-align: middle;
+    }
+  </style>
+</head>
+<body>
+  <h1 align="center">Hello there, I'm Nishat Tasnim 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+  <p class="center">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?lines=Manifesting+to+be+Research+Scientist;" alt="Typing SVG">
+    </a>
+  </p>
+
+  <p class="justify">
+    <!-- Your justified text here -->
+  </p>
+</body>
+</html>
+
 
 I'm a curious explorer of the coding cosmos. While I may not wield languages like C, C++, Java, and Python with the mastery of a seasoned pro, I thrive on the thrill of creation and innovation. My digital palette includes dabbling in Machine Learning, spinning words into scientific gold, crafting visual wonders, and sculpting ideas into captivating PowerPoint presentations. Catch me occasionally cracking coding conundrums on Codechef and Codeforces, where challenges are my playground. But here's the twist: I'm not just about codes and algorithms. My heart beats for the enigmatic realm of research. Unveiling the mysteries of the universe, one data point at a time, gives me an electrifying high. Datasets are my playmates, and I believe that in every spreadsheet lies a story waiting to be told. Got a passion for the unconventional? Let's connect and embark on a journey of creativity, exploration, and mind-bending ideas. Together, let's transform the ordinary into the extraordinary! 🔍
 </p>
