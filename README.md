@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello, I'm Nishat Tasnim 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center" style="color: red;">Hello, I'm Nishat Tasnim 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center" style="text-align: center;">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -75,8 +75,8 @@ I'm a curious explorer of the coding cosmos. While I may not wield languages lik
   </a> &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.tinkercad.com/users/eVQXPRyyEat-nishat-tasnim">
-    <img src="https://github.com/smashik716/Icons/blob/main/Thinkercad.svg" alt="Thinkercad" style="vertical-align:top; margin:4px; color: gray;">
-  </a>
+    <img src="https://github.com/smashik716/Icons/blob/main/Tinkercad.svg" alt="Tinkercad" style="vertical-align:top; margin:4px; color: gray;">
+</a>
 </p>
 
 ### 📩 Contact With Me:
