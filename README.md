@@ -32,7 +32,7 @@ I'm a curious explorer of the coding cosmos. While I may not wield languages lik
 
 ## 👩🏻‍💻 Who am I? (Breifly):
 - 🏫: I am a `Student` at Department of CSE at University of Asia Pacific.
-- 👩‍🔬: I'm very passionate about `Research`, `AI`, `HCI`, `ML`, `DL`, `NLP` etc.
+- 👩🏻‍🔬: I'm very passionate about `Research`, `AI`, `HCI`, `ML`, `DL`, `NLP` etc.
 - 💻: I love `Graphics Design` and writing `Scientific Content`, `Sci-Fi`.
 - 🧭: Always `exploring` and `learning new things`.
 
