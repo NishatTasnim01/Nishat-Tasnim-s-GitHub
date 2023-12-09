@@ -30,7 +30,7 @@ I'm a curious explorer of the coding cosmos. While I may not wield languages lik
 <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/5ea076b847d1cc44d6d3a93361410ea769f5b0e451bae76e33446eac6747b7dc/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3333313236352f73637265656e73686f74732f323439383730302f616e612d642d736d616c6c2e676966">
 
 
-## :sassy_woman: Who am I? (Breifly):
+##:sassy_woman: Who am I? (Breifly):
 - 🏫: I am a `Student` at Department of CSE at University of Asia Pacific.
 - 👩‍🔬: I'm very passionate about `Research`, `AI`, `HCI`, `ML`, `DL`, `NLP` etc.
 - 💻: I love `Graphics Design` and writing `Scientific Content`, `Sci-Fi`.
