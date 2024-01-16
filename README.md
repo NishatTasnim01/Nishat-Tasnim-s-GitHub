@@ -27,7 +27,7 @@ I'm a curious explorer of the coding cosmos. While I may not wield languages lik
 -->
 
 <br>
-<img align="right" alt="Coding" width="300" src="https://github.com/NishatTasnim01/NishatTasnim01/blob/main/1%2023.gif">
+<img align="right" alt="Coding" width="300" src="https://github.com/NishatTasnim01/NishatTasnim01/blob/main/python_nishat.gif">
 
 
 ## 👩🏻‍💻 Who am I? (Breifly):
