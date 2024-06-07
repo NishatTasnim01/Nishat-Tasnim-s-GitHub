@@ -201,7 +201,7 @@ I'm a curious explorer of the coding cosmos. While I may not wield languages lik
 </details>
 
  
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nishattasnim01&theme=github-dark&custom_title=Nishat's%20Activity%20Graph&hide_border=true)] (https://github.com/NishatTasnim01/github-readme-activity-graph)
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nishattasnim01&theme=github-dark&custom_title=Nishat's%20Activity%20Graph&hide_border=true)
 <br>
 
 ### 🎓 Achievements:
